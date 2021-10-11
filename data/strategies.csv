@@ -1,0 +1,2 @@
+0;MACD_based.txt;trading_system.handler.BacktraderHandler;trading_system.strategies.MACD;active
+1;MovingAverage_based.txt;trading_system.handler.BacktraderHandler;trading_system.strategies.TrendDetectorMovingAverage;active

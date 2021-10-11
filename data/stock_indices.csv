@@ -1,0 +1,22 @@
+GER;GER FRA YHD PNK;DAX;https://en.wikipedia.org/wiki/DAX;id;constituents;3;1;2;false;na
+GER;GER FRA YHD PNK;MDAX;https://en.wikipedia.org/wiki/MDAX;id;constituents;7;1;2;false;.DE
+USA;NYSE;S&P 500;https://en.wikipedia.org/wiki/List_of_S%26P_500_companies;id;constituents;0;1;3;false;na
+UK;LSE YHD;FTSE 100;https://en.wikipedia.org/wiki/FTSE_100_Index;id;constituents;1;0;2;false;.L
+UK;LSE YHD;FTSE 250;https://en.wikipedia.org/wiki/FTSE_250_Index;class;wikitable;1;0;na;false;.L
+SUI;EBS IOB;SMI;https://en.wikipedia.org/wiki/Swiss_Market_Index;class;wikitable sortable;3;1;2;false;.SW
+SUI;EBS IOB;SMI MID;https://en.wikipedia.org/wiki/SMI_MID;class;wikitable sortable;3;0;1;false;.SW
+SUI;EBS IOB;SPI;https://en.wikipedia.org/wiki/Swiss_Performance_Index;class;wikitable sortable;0;1;na;false;.SW
+GER;GER FRA YHD PNK;SDAX;https://en.wikipedia.org/wiki/SDAX;class;wikitable sortable zebra;2;1;3;false;.DE
+USA;NYSE;NASDAQ 100;https://en.wikipedia.org/wiki/NASDAQ-100;id;constituents;1;0;2;false;na
+ESP;na;IBEX 30;https://en.wikipedia.org/wiki/IBEX_35;class;wikitable sortable;0;1;2;false;.MC
+IND;na;NIFTY 50;https://en.wikipedia.org/wiki/NIFTY_50;id;constituents;1;0;2;false;na
+IND;BSE YHD;SENSEX;https://en.wikipedia.org/wiki/BSE_SENSEX;class;wikitable sortable;2;3;4;false;na
+JP;na;NIKKEI 225;file;na;na;na;na;na;na;na
+CHN;na;SSE 50;file;na;na;na;na;na;na;na
+ITA;na;FTSE MIB;file;na;na;na;na;na;na;na
+BEL;na;BEL 20;file;na;na;na;na;na;na;na
+Diverse;na;Alternative Energy;file;na;na;na;na;na;na;na
+Diverse;na;Innovation;file;na;na;na;na;na;na;na
+Diverse;na;ETF;file;na;na;na;na;na;na;na
+FRA;PAR PNK BRU;CAC Next 20;https://en.wikipedia.org/wiki/CAC_Next_20;class;wikitable sortable;na;0;1;true;na
+FRA;PAR BRU;CAC 40;https://en.wikipedia.org/wiki/CAC_40;id;constituents;3;0;1;false;na
